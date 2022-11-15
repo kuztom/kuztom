@@ -9,7 +9,7 @@ Some of my latest projects:
 - Calendar web app (store input form data to users Google, Yahoo, Outlook or ICS calendar).
 
 **Skillset:**  
-PHP | Laravel | JavaScript | React | HTML & CSS | VueJS Basics | MySQL | GIT 
+PHP | Laravel | JavaScript | React | HTML & CSS | VueJS Basics | MySQL | GIT <br />
 MVC, SOLID & design patterns (KISS, DRY etc.)   
 Building REST API  
 
